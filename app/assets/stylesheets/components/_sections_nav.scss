@@ -1,5 +1,6 @@
 .links ul{
-	display: flex;
+  display: flex;
+  flex-wrap: wrap;
 	font-family: $sans-serif;
   font-size: 15px;
   justify-content: center;
